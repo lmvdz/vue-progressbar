@@ -1,5 +1,5 @@
 {
-  "name": "vue-progressbar",
+  "name": "vue-progressbar-xeonpowder",
   "version": "0.8.0",
   "description": "A lightweight progress bar for vue",
   "main": "dist/vue-progressbar.es5.min.js",
@@ -12,14 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hilongjw/vue-progressbar.git"
+    "url": "git+https://github.com/XeonPowder/vue-progressbar.git"
   },
   "keywords": [
     "vue",
     "vue-progressbar",
     "vue loading progress",
     "vue progressbar",
-    "progressbar"
+    "progressbar",
+    "xeonpowder"
   ],
   "author": [
     {
@@ -32,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hilongjw/vue-progressbar/issues"
+    "url": "https://github.com/XeonPowder/vue-progressbar/issues"
   },
-  "homepage": "https://github.com/hilongjw/vue-progressbar#readme",
+  "homepage": "https://github.com/XeonPowder/vue-progressbar#readme",
   "devDependencies": {
     "copyfiles": "^1.0.0"
   }
