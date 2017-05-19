@@ -17,10 +17,10 @@
 # Demo
 * [__Demo (updated)__](https://xeonpowder.github.io/vue-progressbar/)  
 * [__Demo (forked from)__](http://hilongjw.github.io/vue-progressbar/index.html)   
-* [__Trailing progress bar + randomizer__](https://dl.dropboxusercontent.com/u/79194953/ShareX/2016/11/2016-11-13_04-29-03.mp4)  
-* [__Vue-router meta progress bar__](https://dl.dropboxusercontent.com/u/79194953/ShareX/2016/11/2016-11-13_04-30-24.mp4)  
-* [__Multi progress bar support__](https://dl.dropboxusercontent.com/u/79194953/ShareX/2016/11/2016-11-14_03-16-45.mp4)
-* [__Gradient support__](https://dl.dropboxusercontent.com/u/79194953/ShareX/2016/11/2016-11-18_12-58-06.mp4)
+* [__Trailing progress bar + randomizer__](https://www.dropbox.com/s/kjp8bbvk1y64is0/2016-11-13_04-29-03.mp4?dl=0)  
+* [__Vue-router meta progress bar__](https://www.dropbox.com/s/rxm9l045oy3veih/2016-11-13_04-30-24.mp4?dl=0)  
+* [__Multi progress bar support__](https://www.dropbox.com/s/gxex7grgo17z4ud/2016-11-14_03-16-45.mp4?dl=0)
+* [__Gradient support__](https://www.dropbox.com/s/jm9mk1zr0m904h6/2016-11-18_12-58-06.mp4?dl=0)
 
 # Requirements
 - [Vue.js](https://github.com/vuejs/vue) `1.x` or `2.x`  
