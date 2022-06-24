@@ -15,7 +15,7 @@
 * [___License___](#license)  
 
 # Demo
-* [__Demo (updated)__](https://xeonpowder.github.io/vue-progressbar/)  
+* [__Demo (updated)__](https://lmvdz.github.io/vue-progressbar/)  
 * [__Demo (forked from)__](http://hilongjw.github.io/vue-progressbar/index.html)   
 * [__Trailing progress bar + randomizer__](https://www.dropbox.com/s/kjp8bbvk1y64is0/2016-11-13_04-29-03.mp4?dl=0)  
 * [__Vue-router meta progress bar__](https://www.dropbox.com/s/rxm9l045oy3veih/2016-11-13_04-30-24.mp4?dl=0)  
@@ -37,7 +37,7 @@ $ yarn add vue-progressbar-xeonpowder
 ```
 # git
 cd /directory/to/clone/to
-git clone https://github.com/XeonPowder/vue-progressbar.git
+git clone https://github.com/lmvdz/vue-progressbar.git
 
 cd /directory/cloned/to
 
